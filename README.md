@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=39D5FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Java+%7C+Python+%7C+PHP+Dev;DSA+Enthusiast+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<sub>📍 Chennai, India &nbsp;|&nbsp; 🟢 Open to opportunities</sub>
+<sub>📍 Madurai,TamilNadu, India &nbsp;|&nbsp; 🟢 Open to opportunities</sub>
 
 </div>
 
