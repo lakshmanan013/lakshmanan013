@@ -25,7 +25,6 @@
 <tr>
 <td align="center" width="33%">
 <a href="https://leetcode.com/u/lakshmananmeyyappan/">
-<img src="https://img.shields.io/badge/─────────────────────────-0D1117?style=for-the-badge" /><br/>
 <img src="https://img.shields.io/badge/LC-FFA116?style=for-the-badge&logoColor=0D1117" width="42"/><br/>
 <strong>LeetCode</strong><br/>
 <code>lakshmananmeyyappan</code><br/>
@@ -34,7 +33,6 @@
 </td>
 <td align="center" width="33%">
 <a href="https://www.codechef.com/users/lakshmanan_11">
-<img src="https://img.shields.io/badge/─────────────────────────-0D1117?style=for-the-badge" /><br/>
 <img src="https://img.shields.io/badge/CC-B07050?style=for-the-badge&logoColor=0D1117" width="42"/><br/>
 <strong>CodeChef</strong><br/>
 <code>lakshmanan_11</code><br/>
@@ -43,7 +41,6 @@
 </td>
 <td align="center" width="33%">
 <a href="https://www.hackerrank.com/profile/lakshmananmeyya1">
-<img src="https://img.shields.io/badge/─────────────────────────-0D1117?style=for-the-badge" /><br/>
 <img src="https://img.shields.io/badge/HR-00EA64?style=for-the-badge&logoColor=0D1117" width="42"/><br/>
 <strong>HackerRank</strong><br/>
 <code>lakshmananmeyya1</code><br/>
