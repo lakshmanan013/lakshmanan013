@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Lakshmanan;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI+%7C+Face+Recognition+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Lakshmanan;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI+%7C+Enthusiast">
 </h1>
 
 <h3 align="center">🚀 Java Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshmanan013&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lakshmanan013&label=Profile%20Views&color=0e75b6&style=flat">
 </p>
 
 ---
@@ -61,7 +61,7 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 ---
 
 ## 🏆 CodeChef Stats
-![CodeChef](https://cp-logo.vercel.app/codechef/lakshmanan_11)
+[![CodeChef](https://img.shields.io/badge/CodeChef-lakshmanan__11-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/lakshmanan_11)
 
 ---
 
