@@ -56,7 +56,7 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 ---
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lakshmananmeyyappan?theme=dark)
 
 ---
 
