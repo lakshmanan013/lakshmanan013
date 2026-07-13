@@ -45,10 +45,6 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmanan013&show_icons=true&theme=tokyonight)
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=lakshmanan013&theme=tokyonight)
 
