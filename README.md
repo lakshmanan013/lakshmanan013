@@ -16,8 +16,7 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 ---
 
 ## 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=lakshmanan013&theme=onedark&row=1&column=6)
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lakshmanan013&theme=onedark)
 ---
 
 ## 🛠 Tech Stack
