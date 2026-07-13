@@ -45,7 +45,7 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 
 ---
 
-## 🔥 Streak Stats
+## 🔥Github Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=lakshmanan013&theme=tokyonight)
 
 ---
