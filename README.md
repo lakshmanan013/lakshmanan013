@@ -61,7 +61,7 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 ---
 
 ## 🏆 CodeChef Stats
-![CodeChef](https://cp-logo.vercel.app/codechef/YOUR_CODECHEF_USERNAME)
+![CodeChef](https://cp-logo.vercel.app/codechef/lakshmanan_11)
 
 ---
 
