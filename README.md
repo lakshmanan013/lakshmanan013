@@ -66,7 +66,7 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 ---
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshmanan013&theme=tokyo-night)
 
 ---
 
