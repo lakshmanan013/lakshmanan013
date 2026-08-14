@@ -40,11 +40,6 @@ Java Full Stack Developer with hands-on experience building scalable web applica
 
 ---
 
-## 🔥Github Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=lakshmanan013&theme=tokyonight)
-
----
-
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lakshmananmeyyappan?theme=dark)
 
